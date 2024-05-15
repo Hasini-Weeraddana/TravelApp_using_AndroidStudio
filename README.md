@@ -9,3 +9,4 @@ Welcome to the Sri Lanka Travel App! This mobile application is designed for tra
 + Android Studio: Integrated development environment for Android development.
 + Java: Programming languages used for app development.
 + XML: Used for designing UI layouts.
++ SQLite: Database management system used for local storage.
